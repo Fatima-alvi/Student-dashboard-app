@@ -83,7 +83,7 @@ export const students = [
       leave: 3,
       percentage: 92,
     },
-    courses: ["English", "Mathematics"],
+    courses: ["English", "Mathematics"]
   },
   {
     id: "5",
